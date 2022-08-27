@@ -1,0 +1,1 @@
+`wget --no-check-certificate -qO- "https://raw.githubusercontent.com/sec-an/TV_Spider/main/T4update.sh" -O '/tmp/T4update.sh' && chmod +x /tmp/T4update.sh && bash /tmp/T4update.sh && rm /tmp/T4update.sh`
