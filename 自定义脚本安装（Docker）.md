@@ -2,6 +2,6 @@
 
 2. 如果有需要自定义内容，请进入脚本在响应位置自行修改。
 
-![T4update说明](https://raw.githubusercontent.com/lm317379829/TV-Spider/main/pic/T4update%E8%AF%B4%E6%98%8E.jpg)
+![T4update说明](https://user-images.githubusercontent.com/23151539/187015605-7deecae9-ef6a-4cc7-b4ad-d20634020229.jpg)
 
 3. 运行脚本，完成安装。
