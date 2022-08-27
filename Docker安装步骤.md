@@ -6,7 +6,7 @@
 
 `docker run --name TV --net="host" -v /opt/TV（源码所在目录）:/TV tv:latest gunicorn -w 4 -b 0.0.0.0:8080 app:app`
 
-## 脚本安装、更新：
+## 脚本安装、更新
 
 ## 注意
 - 需要提前安装unzip：
