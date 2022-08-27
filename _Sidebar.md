@@ -2,6 +2,10 @@
 
 > [如何在TVBoxOSC中调用](https://github.com/sec-an/TV_Spider/wiki/%E5%A6%82%E4%BD%95%E5%9C%A8TVBoxOSC%E4%B8%AD%E8%B0%83%E7%94%A8)
 
-> Docker安装
+> [Docker安装](https://github.com/sec-an/TV_Spider/wiki/Docker%E5%AE%89%E8%A3%85%E6%AD%A5%E9%AA%A4)
 
-> > [一键安装（Docker）](https://github.com/sec-an/TV_Spider/wiki/%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%EF%BC%88Docker%EF%BC%89)
+> > [一键安装](https://github.com/sec-an/TV_Spider/wiki/%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%EF%BC%88Docker%EF%BC%89)
+
+> > [自定义脚本安装](https://github.com/sec-an/TV_Spider/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89%E8%84%9A%E6%9C%AC%E5%AE%89%E8%A3%85%EF%BC%88Docker%EF%BC%89)
+
+> [使用宝塔安装](https://github.com/sec-an/TV_Spider/wiki/%E4%BD%BF%E7%94%A8%E5%AE%9D%E5%A1%94%E5%AE%89%E8%A3%85)
